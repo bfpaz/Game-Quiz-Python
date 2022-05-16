@@ -1,0 +1,6 @@
+A idade de alex?;24;54;33;21;18;a
+A capital de Pernambuco?;Olinda;Igarassu;Recife;Paulista;Jaboatão dos Guararapes;c
+A idade de alex?;24;54;33;21;18;a
+A capital de Pernambuco?;Olinda;Igarassu;Recife;Paulista;Jaboatão dos Guararapes;c
+A idade de alex?;24;54;33;21;18;a
+Pastor alemão e´?;Um carro;Uma religião;Uma comida;Nada;Uma raça;e
